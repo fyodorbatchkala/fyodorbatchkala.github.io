@@ -5,7 +5,7 @@
 }
 
 .my_name {
-    color: ivory;
+    color: ivory !important;
     float: left;
 }
 
