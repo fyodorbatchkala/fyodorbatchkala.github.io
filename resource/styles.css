@@ -75,3 +75,7 @@ main div ul ol li {
     margin: 0px;
     font-style: italic;
 }
+
+a {
+    color: black;
+}
