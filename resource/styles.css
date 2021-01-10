@@ -4,10 +4,8 @@
     background-color: ivory;
 }
 
-main {
-    position: relative;
-    top: 50px;
-}
+
+/* header */
 
 .my_name {
     color: ivory !important;
@@ -45,10 +43,14 @@ header li:hover {
     color: burlywood;
 }
 
-/* h1 {
+
+
+/* main */
+
+main {
     position: relative;
-    top: 20px;
-} */
+    top: 50px;
+}
 
 main h2 {
     text-transform: capitalize;
