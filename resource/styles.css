@@ -4,6 +4,10 @@
     background-color: rgb(255, 237, 158);
 }
 
+header {
+    width: 100%;
+}
+
 header ul {
     text-align: center;
     background-color: black;
