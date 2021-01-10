@@ -1,9 +1,15 @@
-h1 {
-    text-align: center;
-}
-
 * {
-    background-color: royalblue;
+    box-sizing: border-box;
     font-family: Helvetica;
 }
 
+header.li {
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: 100%;
+    margin-right: 0px 5px;
+    text-align: center;
+    display: inline;
+    color: white;
+    background-color: black;
+}
