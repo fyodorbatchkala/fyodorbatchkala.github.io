@@ -17,3 +17,13 @@ header li {
     color: white;
     margin-right: 30px;
 }
+
+h2 {
+    text-transform: capitalize;
+}
+
+p {
+    width: 50%;
+    font-style: normal;
+    font-size: 100%;
+}
