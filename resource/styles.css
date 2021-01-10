@@ -30,12 +30,14 @@ p {
     font-size: 100%;
 }
 
-div ul h4 {
+div ul p {
     margin: 3px;
+    font-style: normal;
 }
 
 div ul li {
     margin: 5px;
+    font-style: italic;
 }
 
 div ul ol li {
