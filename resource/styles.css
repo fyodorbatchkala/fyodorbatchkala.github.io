@@ -4,16 +4,15 @@
     background-color: rgb(255, 237, 158);
 }
 
-header {
-    width: 100%;
-    position: fixed;
-}
-
 header ul {
     text-align: center;
     background-color: black;
     padding: 10px;
-    margin:  auto;
+    margin:  0px auto;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
 }
 header li {
     text-transform: capitalize;
@@ -23,6 +22,11 @@ header li {
     color: white;
     margin-right: 30px;
     background-color: black;
+}
+
+h1 {
+    position: relative;
+    top: 20px;
 }
 
 h2 {
