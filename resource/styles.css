@@ -37,9 +37,9 @@ div ul p {
 
 div ul li {
     margin: 5px;
-    font-style: italic;
 }
 
 div ul ol li {
     margin: 0px;
+    font-style: italic;
 }
