@@ -12,7 +12,7 @@ main {
 .my_name {
     color: ivory !important;
     float: left;
-    width: 150px !important;
+    width: auto;
 }
 
 .slash:hover {
