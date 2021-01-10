@@ -3,12 +3,15 @@
     font-family: Helvetica;
 }
 
-header.li {
+header ul {
+    text-align: center;
+    height: 25px;
+}
+header li {
     text-transform: capitalize;
     font-weight: bold;
     font-size: 100%;
     margin-right: 0px 5px;
-    text-align: center;
     display: inline;
     color: white;
     background-color: black;
