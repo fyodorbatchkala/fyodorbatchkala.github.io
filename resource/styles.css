@@ -4,6 +4,11 @@
     background-color: ivory;
 }
 
+main {
+    position: relative;
+    top: 50px;
+}
+
 .my_name {
     color: ivory !important;
     float: left;
@@ -33,37 +38,38 @@ header li {
     color: white;
     background-color: black;
     width: 100px;
+    height: 10px;
 }
 
 header li:hover {
     color: burlywood;
 }
 
-h1 {
+/* h1 {
     position: relative;
     top: 20px;
-}
+} */
 
-h2 {
+main h2 {
     text-transform: capitalize;
 }
 
-p {
+main p {
     width: 50%;
     font-style: normal;
     font-size: 100%;
 }
 
-div ul p {
+main div ul p {
     margin: 3px;
     font-style: normal;
 }
 
-div ul li {
+main div ul li {
     margin: 5px;
 }
 
-div ul ol li {
+main div ul ol li {
     margin: 0px;
     font-style: italic;
 }
