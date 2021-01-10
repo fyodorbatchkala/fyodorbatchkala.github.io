@@ -7,6 +7,7 @@
 .my_name {
     color: ivory !important;
     float: left;
+    width: 150px !important;
 }
 
 .slash:hover {
@@ -28,10 +29,10 @@ header li {
     text-transform: capitalize;
     font-weight: bold;
     font-size: 100%;
-    display: inline;
+    display: inline-block;
     color: white;
-    margin-right: 60px;
     background-color: black;
+    width: 100px;
 }
 
 header li:hover {
