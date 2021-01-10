@@ -27,3 +27,15 @@ p {
     font-style: normal;
     font-size: 100%;
 }
+
+div ul h4 {
+    margin: 3px;
+}
+
+div ul li {
+    margin: 5px;
+}
+
+div ul ol li {
+    margin: 0px;
+}
