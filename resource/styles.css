@@ -11,16 +11,13 @@
     color: ivory !important;
     float: left;
     width: auto;
-}
-
-.slash:hover {
-    color: ivory;
+    padding-left: 0px;
 }
 
 header ul {
     text-align: center;
     background-color: black;
-    padding: 20px;
+    padding: 10px;
     margin:  0px auto;
     width: 100%;
     position: fixed;
@@ -28,21 +25,20 @@ header ul {
     left: 0px;
     z-index: 10;
 }
-header li {
+header ul li {
     text-transform: capitalize;
     font-weight: bold;
     font-size: 100%;
     display: inline-block;
     color: ivory;
     background-color: black !important;
-    width: 100px;
-    height: 10px;
+    padding: 10px 40px;
 }
 
 header li a {
     text-decoration: none;
     background-color: black;
-    color: white;
+    color: ivory;
 }
 
 header li a:hover {
