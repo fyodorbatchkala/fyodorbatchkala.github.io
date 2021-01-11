@@ -34,12 +34,18 @@ header li {
     font-size: 100%;
     display: inline-block;
     color: white;
-    background-color: black;
+    background-color: black !important;
     width: 100px;
     height: 10px;
 }
 
-header li:hover {
+header li a {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+
+header li a:hover {
     color: burlywood;
 }
 
