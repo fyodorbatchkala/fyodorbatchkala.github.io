@@ -64,7 +64,7 @@ main p {
     font-size: 100%;
 }
 
-main div ul p {
+main div ul li p {
     margin-bottom: 2%;
     font-style: normal;
 }
