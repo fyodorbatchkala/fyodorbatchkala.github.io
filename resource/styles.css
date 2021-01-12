@@ -11,18 +11,18 @@
     color: ivory !important;
     float: left;
     width: auto;
-    padding-left: 0px;
+    padding-left: 0;
 }
 
 header ul {
     text-align: center;
     background-color: black;
-    padding: 10px;
-    margin:  0px auto;
+    padding: 0.8%;
+    margin:  0 auto;
     width: 100%;
     position: fixed;
-    top: 0px;
-    left: 0px;
+    top: 0;
+    left: 0;
     z-index: 10;
 }
 header ul li {
@@ -32,7 +32,7 @@ header ul li {
     display: inline-block;
     color: ivory;
     background-color: black !important;
-    padding: 10px 40px;
+    padding: 0.8% 3%;
 }
 
 header li a {
@@ -51,9 +51,8 @@ header li a:hover {
 
 main {
     position: relative;
-    top: 50px;
     width: 50%;
-    margin: 0px auto;
+    margin: 7% auto;
 }
 
 main h2 {
@@ -66,18 +65,23 @@ main p {
 }
 
 main div ul p {
-    margin: 3px;
+    margin-bottom: 2%;
     font-style: normal;
 }
 
+main div {
+    margin-bottom: 5%;
+}
+
 main div ul li {
-    margin: 5px;
+    margin: 1%;
 }
 
 main div ul ol li {
-    margin: 0px;
+    margin: 0;
     font-style: italic;
 }
+
 
 a {
     color: black;
