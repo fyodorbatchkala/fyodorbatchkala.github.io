@@ -52,7 +52,7 @@ header li a:hover {
 
 main {
     position: relative;
-    width: 50%;
+    width: 60%;
     margin: 7% auto;
 }
 
@@ -84,4 +84,18 @@ li.first-line {
 
 a {
     color: #36393A;
+}
+
+.link-primary {
+    color: #36393A;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.link-primary:hover {
+    color: #0099AD;
+}
+
+.inline {
+    display: inline;
 }
