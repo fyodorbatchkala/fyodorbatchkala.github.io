@@ -73,11 +73,6 @@ main div ul li {
     margin: 2% 0;
 }
 
-main div ul ol li {
-    margin: 0;
-    font-style: italic;
-}
-
 li.first-line {
     margin-top: 0 !important;
 }
