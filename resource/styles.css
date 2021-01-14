@@ -6,7 +6,7 @@
 }
 
 
-/* header */
+/* HEADER */
 
 .my_name {
     color: #F4A15D !important;
@@ -48,11 +48,11 @@ header li a:hover {
 
 
 
-/* main */
+/* MAIN */
 
 main {
     position: relative;
-    width: 60%;
+    width: 70%;
     margin: 7% auto;
 }
 
@@ -69,13 +69,6 @@ main div {
     margin-bottom: 5%;
 }
 
-main div ul li {
-    margin: 2% 0;
-}
-
-li.first-line {
-    margin-top: 0 !important;
-}
 
 a {
     color: #36393A;
@@ -88,9 +81,5 @@ a {
 }
 
 .link-primary:hover {
-    color: #0099AD;
-}
-
-.inline {
-    display: inline;
+    color: #5062AA;
 }
