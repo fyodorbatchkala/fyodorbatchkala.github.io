@@ -78,8 +78,15 @@ a {
     color: #36393A;
     font-weight: bold;
     text-decoration: none;
+    border: solid #36393A;
+    border-radius: 6px;
+    margin: 2px;
+    padding: 2px;
 }
 
 .link-primary:hover {
     color: #5062AA;
+    border: solid #5062AA;
+    border-radius: 6px;
+    background-color: lightblue;
 }
