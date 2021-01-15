@@ -85,8 +85,8 @@ a {
 }
 
 .link-primary:hover {
-    color: #5062AA;
-    border: solid #5062AA;
+    color: #F4A15D;
+    border: solid #163D57;
     border-radius: 6px;
-    background-color: lightblue;
+    background-color: #163D57;
 }
