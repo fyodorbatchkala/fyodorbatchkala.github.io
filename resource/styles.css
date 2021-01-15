@@ -8,12 +8,12 @@
 
 /* HEADER */
 
-.my_name {
+/* .my_name {
     color: #F4A15D !important;
     float: left;
     width: auto;
     padding-left: 0;
-}
+} */
 
 header ul {
     text-align: center;
@@ -33,7 +33,7 @@ header ul li {
     display: inline-block;
     color: #F4A15D;
     background-color: #163D57 !important;
-    padding: 0.8% 3%;
+    padding: 0.8% 1%;
 }
 
 header li a {
@@ -52,7 +52,7 @@ header li a:hover {
 
 main {
     position: relative;
-    width: 70%;
+    width: 75%;
     margin: 7% auto;
 }
 
@@ -66,9 +66,11 @@ main p {
 }
 
 main div {
-    margin-bottom: 5%;
+    margin: 3% 0%;
+    padding: 3%;
+    border: solid #36393A;
+    border-radius: 15px;
 }
-
 
 a {
     color: #36393A;
