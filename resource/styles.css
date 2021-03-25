@@ -80,15 +80,15 @@ a {
     color: #36393A;
     font-weight: bold;
     text-decoration: none;
-    border: solid #36393A;
-    border-radius: 6px;
+    /* border: solid #36393A;
+    border-radius: 6px; */
     margin: 2px;
     padding: 2px;
 }
 
 .link-primary:hover {
-    color: #F4A15D;
-    border: solid #163D57;
-    border-radius: 6px;
-    background-color: #163D57;
+    color: rgb(62, 131, 177);
+    /* border: solid #163D57;
+    border-radius: 6px; */
+    /* background-color: #163D57; */
 }
