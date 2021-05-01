@@ -25,15 +25,19 @@
     top: 0;
     left: 0;
     z-index: 10;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 150px;
+    padding-right: 150px;
 }
 .header-list {
     text-transform: capitalize;
     font-weight: bold;
     font-size: 100%;
-    display: inline-block;
     color: #E0E3F0;
     background-color: #1D1F20 !important;
     padding: 0.8% 1%;
+    list-style-type: none;
 }
 
 .header-list-link {
