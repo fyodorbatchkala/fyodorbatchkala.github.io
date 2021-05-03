@@ -1,10 +1,9 @@
 * {
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #36393A;
-    /* color: #E0E3F0; */
+    background-color: royalblue;
+    color: #1D1F20;
 }
-
 
 /* HEADER */
 
@@ -12,7 +11,7 @@
     text-align: center;
     background-color: #1D1F20;
     padding: 0.8%;
-    margin:  0 auto;
+    margin:  0;
     width: 100%;
     position: fixed;
     top: 0;
@@ -20,9 +19,9 @@
     z-index: 10;
     display: flex;
     justify-content: space-around;
-    padding-left: 150px;
-    padding-right: 150px;
+    padding: 0.8% 20vw;
 }
+
 .header-list {
     text-transform: capitalize;
     font-weight: bold;
@@ -40,7 +39,7 @@
 }
 
 .header-list-link:hover {
-    color: #285D3D;
+    color: orange;
 }
 
 
@@ -55,13 +54,13 @@ main {
 
 main h2 {
     text-transform: capitalize;
-    background-color: #285D3D;
+    background-color: orange;
 }
 
 main p {
     font-style: normal;
     font-size: 100%;
-    background-color: #285D3D !important;
+    background-color: orange !important;
 }
 
 main div {
@@ -69,10 +68,8 @@ main div {
     padding: 3%;
     border: solid #36393A;
     border-radius: 15px; 
-    background-color: #285D3D;
+    background-color: orange;
 }
-
-
 
 a {
     color: #36393A;
@@ -86,12 +83,12 @@ a {
     border-radius: 6px; */
     margin: 2px;
     padding: 2px;
-    background-color: #285D3D;
+    background-color: orange;
 }
 
 .link-primary:hover {
     color: #E0E3F0;
-    background-color: #285D3D;
+    background-color: orange;
     /* border: solid #163D57;
     border-radius: 6px; */
     /* background-color: #163D57; */
