@@ -98,25 +98,3 @@ a {
     content: ' << Have a look at this one! 😉';
     color: royalblue;
 }
-
-
-/* PARTNERSHIP */
-
-.partnership-form {
-    color: black;
-    background-color: royalblue;
-    padding: 0.8%;
-    margin:  0;
-    width: 50%;
-}
-
-.greeting {
-    width: 100%;
-    color: royalblue;
-}
-
-.button {
-    border-radius: 8px;
-    color: red;
-    background-color: #fff;
-}
